@@ -753,7 +753,7 @@ require_once "admin/db.php";
   const chatInput = document.getElementById('chatInput');
   const chatSendBtn = document.getElementById('chatSendBtn');
   const chatMessages = document.getElementById('chatMessages');
-  const WEBHOOK_URL = 'https://cloud.activepieces.com/api/v1/webhooks/dTUq0oclhDht5fsqu7r5n/sync';
+  const WEBHOOK_URL = '//url is here';
 
   document.addEventListener('DOMContentLoaded', () => {
     addMessage("Hello I am Theekshana ! How can I help you today?", false);
